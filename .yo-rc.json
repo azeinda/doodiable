@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "doodiable",
+    "packageName": "cas.diablerets.doodiable",
+    "packageFolder": "cas/diablerets/doodiable",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "20387f0bff17423ce74b3f056263566560be224f"
+  }
+}
