@@ -1,0 +1,29 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "casNumber",
+            "fieldType": "Integer",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "firstName",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 3,
+            "fieldName": "lastName",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 4,
+            "fieldName": "registrationDate",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20150917133605",
+    "dto": "no",
+    "pagination": "pager"
+}
